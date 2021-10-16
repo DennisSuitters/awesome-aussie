@@ -48,7 +48,7 @@ If you want to add a project to this list, please make sure that:
 - If they meet the requirements above, feel free to create a PR!
 
 ## Thanks
-- To the little green men how populated this world, making this possible
+- To the little green men whom populated this world, making this possible
 
 ## License
 
