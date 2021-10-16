@@ -10,28 +10,31 @@
 - [Apps, Softwares & Tools](#apps)
   - [PHP](#apps-php)
 
+<hr>
+
 <a name="biz"></a>
+### Businesses
 <a name="biz-collectibles)"></a>
+#### Collectibles - Figurines - Anime
 - **[Anime Excess](https://animeexcess.com.au/)**
 - **[Lone Wolf Animes](https://lonewolfanime.com.au/)**
-
 <a name="biz-sale"></a>
-### Computer Sales/Repairs
+#### Computer Sales/Repairs
  - **[Hays Computer World](https://hayscomputerworld.com.au/)**
  - **[Raycraft Computer Consultants](https://raycraft.com.au/)**
-
 <a name="biz-hosting"></a>
-### Hosting and Domain Registration
+#### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
 
 <a name="apps"></a>
 ### Apps, Softwares & Tools
-
 <a name="apps-php"></a>
-### PHP
+#### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
   MIT Licensed Content Management System  
   ![Stars](https://img.shields.io/github/stars/diemendesign/AuroraCMS?style=flat-square)
+
+<hr>
 
 ## Contributing
 
