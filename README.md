@@ -10,6 +10,7 @@
 - [Apps, Softwares & Tools](#apps)
   - [Data and API](#appdata)
   - [PHP](#appsphp)
+- [Design Resources](#design)
 
 <hr>
 
@@ -29,7 +30,6 @@
 <a name="bizweb"></a>
 - **[Diemen Design](https://diemen.design/)**
 - **[Raycraft Computer Consultants](https://raycraft.com.au/)**
-
 <a name="apps"></a>
 ### Apps, Softwares & Tools
 <a name="appdata"></a>
@@ -37,12 +37,16 @@
 - **[Australian Post Codes](https://github.com/matthewproctor/australianpostcodes)** by [Matthew Proctor](https://github.com/matthewproctor)  
   Australian Post Codes
   ![Stars](https://img.shields.io/github/stars/matthewproctor/australianpostcodes?style=flat-square)
-
 <a name="appsphp"></a>
 #### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
   MIT Licensed Content Management System  
   ![Stars](https://img.shields.io/github/stars/diemendesign/AuroraCMS?style=flat-square)
+<a name="design"></a>
+### Design Resources
+- **[Ochre](https://github.com/hollylkirk/ochRe)** by [Holly Kirk](https://github.com/hollylkirk)  
+  Australia-themed Colour Palettes
+  ![Stars](https://img.shields.io/github/stars/hollylkirk/ochRe?style=flat-square)
 
 <hr>
 
