@@ -35,17 +35,20 @@
 <a name="appdata"></a>
 #### Data and API
 - **[Australian Post Codes](https://github.com/matthewproctor/australianpostcodes)** by [Matthew Proctor](https://github.com/matthewproctor)  
-  Australian Post Codes
+  Australian Post Codes.
   ![Stars](https://img.shields.io/github/stars/matthewproctor/australianpostcodes?style=flat-square)
 <a name="appsphp"></a>
 #### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
-  MIT Licensed Content Management System  
+  MIT Licensed Content Management System.
   ![Stars](https://img.shields.io/github/stars/diemendesign/AuroraCMS?style=flat-square)
 <a name="design"></a>
 ### Design Resources
+- **[Feathers](https://github.com/shandiya/feathers)** by [shandiya](https://github.com/shandiya)  
+  Colour palettes for data visualisation, inspired by the plumage of Australian birds.
+  ![Stars](https://img.shields.io/github/stars/shandiya/feathers?style=flat-square)
 - **[Ochre](https://github.com/hollylkirk/ochRe)** by [Holly Kirk](https://github.com/hollylkirk)  
-  Australia-themed Colour Palettes
+  Australia-themed Colour Palettes.
   ![Stars](https://img.shields.io/github/stars/hollylkirk/ochRe?style=flat-square)
 
 <hr>
