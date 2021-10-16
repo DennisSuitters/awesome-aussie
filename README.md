@@ -3,32 +3,35 @@
 > A collection of amazing Open Source Projects, and Businesses by 100% Australian Developers
 
 - [Businesses](#biz)
-  - [Collectibles - Figurines - Anime](#biz-collectibles)
-  - [Computer Sales/Repairs](#biz-sales)
-  - [Hosting and Domain Registration](#biz-hosting) (100% Australian with Australian only Services)
-  - [Web Development](#biz-web) (Non-WordPress)
+  - [Collectibles - Figurines - Anime](#bizcollectibles)
+  - [Computer Sales/Repairs](#bizsales)
+  - [Hosting and Domain Registration](#bizhosting) (100% Australian with Australian only Services)
+  - [Web Development](#bizweb) (Non-WordPress)
 - [Apps, Softwares & Tools](#apps)
-  - [PHP](#apps-php)
+  - [PHP](#appsphp)
 
 <hr>
 
 <a name="biz"></a>
 ### Businesses
-<a name="biz-collectibles)"></a>
+<a name="bizcollectibles)"></a>
 #### Collectibles - Figurines - Anime
 - **[Anime Excess](https://animeexcess.com.au/)**
 - **[Lone Wolf Animes](https://lonewolfanime.com.au/)**
-<a name="biz-sale"></a>
+<a name="bizsale"></a>
 #### Computer Sales/Repairs
  - **[Hays Computer World](https://hayscomputerworld.com.au/)**
  - **[Raycraft Computer Consultants](https://raycraft.com.au/)**
-<a name="biz-hosting"></a>
+<a name="bizhosting"></a>
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
+<a name="bizweb"></a>
+- **[Diemen Design](https://diemen.design/)**
+- **[Raycraft Computer Consultants](https://raycraft.com.au/)**
 
 <a name="apps"></a>
 ### Apps, Softwares & Tools
-<a name="apps-php"></a>
+<a name="appsphp"></a>
 #### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
   MIT Licensed Content Management System  
