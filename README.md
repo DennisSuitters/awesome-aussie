@@ -1,6 +1,6 @@
 # :australia: Awesome Software Made by Australians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collection of amazing open source projects built by Australian Developers
+> A collection of amazing Open Source Projects, and Businesses by 100% Australian Developers
 
 - [Businesses](#biz)
   - [Collectibles - Figurines - Anime](#biz-collectibles)
