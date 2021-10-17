@@ -75,7 +75,6 @@ If you want to add a project to this list, please make sure that:
 
 - The project was created for developers or businesses that are Australian
 - The project can't be just a personal, experimental or sample project
-- The project has more than on **100 stars** on Github
 - Businesses must be approved by a maintainer, and must primarily use Australian made Products, or provide services to Australians
 - Place them in alphabetical order
 - If they meet the requirements above, feel free to create a PR!
