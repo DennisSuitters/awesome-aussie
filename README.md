@@ -56,7 +56,7 @@
 <a name="appsphp"></a>
 #### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
-  MIT Licensed Content Management System.  
+  MIT Licensed Content Management System, geared for Australian Businesses.  
   ![Stars](https://img.shields.io/github/stars/diemendesign/AuroraCMS?style=flat-square)
 <a name="design"></a>
 ### Design Resources
