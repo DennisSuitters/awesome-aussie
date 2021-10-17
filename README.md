@@ -37,34 +37,34 @@
 <a name="appdata"></a>
 #### Data and API
 - **[Australian Post Codes](https://github.com/matthewproctor/australianpostcodes)** by [Matthew Proctor](https://github.com/matthewproctor)  
-  Australian Post Codes.
+  Australian Post Codes.  
   ![Stars](https://img.shields.io/github/stars/matthewproctor/australianpostcodes?style=flat-square)
 #### Games
 <a name="games"></a>
-- **[Cheeseness](https://github.com/Cheeseness)** by [Cheeseness](https://github.com/Cheeseness)
+- **[Cheeseness](https://github.com/Cheeseness)** by [Cheeseness](https://github.com/Cheeseness)  
   Tasmanian based Games Developer, check his games out through his repository.
-- **[Giant Margarita](https://www.giantmargarita.com/)** by [Giant Margarita](https://twitter.com/GiantMargarita) on Twiiter
+- **[Giant Margarita](https://www.giantmargarita.com/)** by [Giant Margarita](https://twitter.com/GiantMargarita) on Twiiter  
   Tasmanian based Games Developer
-- **[League of Geeks](https://www.leagueofgeeks.com/)** by [League of Geeks](https://twitter.com/LeagueofGeeks) on Twitter
+- **[League of Geeks](https://www.leagueofgeeks.com/)** by [League of Geeks](https://twitter.com/LeagueofGeeks) on Twitter  
   Victoria based Games Developer
-- **[Myriad Games Studio](http://myriadgamesstudio.com/)** by [Myriad Games Studio](https://twitter.com/MyriadGS) on Twiiter
+- **[Myriad Games Studio](http://myriadgamesstudio.com/)** by [Myriad Games Studio](https://twitter.com/MyriadGS) on Twiiter  
   Tasmanian based Games Developer
-- **[Secret Lab](https://secretlab.games/)** by [Secret Lab](https://twitter.com/thesecretlab) on Twitter
+- **[Secret Lab](https://secretlab.games/)** by [Secret Lab](https://twitter.com/thesecretlab) on Twitter  
   Tasmanian based Games Developer
-- **[Witch Beam Games](https://witchbeam.com.au/)** by [Witch Beam Games](https://twitter.com/witchbeamgames) on Twitter
+- **[Witch Beam Games](https://witchbeam.com.au/)** by [Witch Beam Games](https://twitter.com/witchbeamgames) on Twitter  
   Queensland based Games Developer
 <a name="appsphp"></a>
 #### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
-  MIT Licensed Content Management System.
+  MIT Licensed Content Management System.  
   ![Stars](https://img.shields.io/github/stars/diemendesign/AuroraCMS?style=flat-square)
 <a name="design"></a>
 ### Design Resources
 - **[Feathers](https://github.com/shandiya/feathers)** by [shandiya](https://github.com/shandiya)  
-  Colour palettes for data visualisation, inspired by the plumage of Australian birds.
+  Colour palettes for data visualisation, inspired by the plumage of Australian birds.  
   ![Stars](https://img.shields.io/github/stars/shandiya/feathers?style=flat-square)
 - **[Ochre](https://github.com/hollylkirk/ochRe)** by [Holly Kirk](https://github.com/hollylkirk)  
-  Australia-themed Colour Palettes.
+  Australia-themed Colour Palettes.  
   ![Stars](https://img.shields.io/github/stars/hollylkirk/ochRe?style=flat-square)
 
 <hr>
