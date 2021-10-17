@@ -42,6 +42,16 @@
 <a name="games"></a>
 - **[Cheeseness](https://github.com/Cheeseness)** by [Cheeseness](https://github.com/Cheeseness)
   Tasmanian based Games Developer, check his games out through his repository.
+- **[Giant Margarita](https://www.giantmargarita.com/)** by [Giant Margarita](https://twitter.com/GiantMargarita) on Twiiter
+  Tasmanian based Games Developer
+- **[League of Geeks](https://www.leagueofgeeks.com/)** by [League of Geeks](https://twitter.com/LeagueofGeeks) on Twitter
+  Victoria based Games Developer
+- **[Myriad Games Studio](http://myriadgamesstudio.com/)** by [Myriad Games Studio](https://twitter.com/MyriadGS) on Twiiter
+  Tasmanian based Games Developer
+- **[Secret Lab](https://secretlab.games/)** by [Secret Lab](https://twitter.com/thesecretlab) on Twitter
+  Tasmanian based Games Developer
+- **[Witch Beam Games](https://witchbeam.com.au/)** by [Witch Beam Games](https://twitter.com/witchbeamgames) on Twitter
+  Queensland based Games Developer
 <a name="appsphp"></a>
 #### PHP
 - **[AuroraCMS](https://github.com/diemendesign/AuroraCMS)** by [DiemenDesign](https://github.com/diemendesign)  
