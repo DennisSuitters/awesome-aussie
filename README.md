@@ -20,7 +20,7 @@
 <a name="bizcollectibles)"></a>
 #### Collectibles - Figurines - Anime
 - **[Anime Excess](https://animeexcess.com.au/)**
-- **[Lone Wolf Animes](https://lonewolfanime.com.au/)**
+- **[Lone Wolf Anime](https://lonewolfanime.com.au/)**
 <a name="bizsale"></a>
 #### Computer Sales/Repairs
  - **[Hays Computer World](https://hayscomputerworld.com.au/)**
