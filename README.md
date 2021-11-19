@@ -6,6 +6,7 @@
   - [Collectibles - Figurines - Anime](#bizcollectibles)
   - [Computer Sales/Repairs](#bizsales)
   - [Hosting and Domain Registration](#bizhosting) (100% Australian with Australian only Services)
+  - [Waste Management](#bizwaste)
   - [Web Development](#bizweb) (Non-WordPress)
 - [Apps, Softwares & Tools](#apps)
   - [Data and API](#appdata)
@@ -28,6 +29,9 @@
 <a name="bizhosting"></a>
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
+<a name="bizwaste"></a>
+#### Waste Management
+- **[Budget Skips Express](https://budgetskipsexpress.com.au/)**
 <a name="bizweb"></a>
 #### Web Development
 - **[Diemen Design](https://diemen.design/)**
