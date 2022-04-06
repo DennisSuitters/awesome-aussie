@@ -6,6 +6,8 @@
   - [Collectibles - Figurines - Anime](#bizcollectibles)
   - [Computer Sales/Repairs](#bizsales)
   - [Hosting and Domain Registration](#bizhosting) (100% Australian with Australian only Services)
+  - [Massage Therapay](#therapy)
+  - [Tourism - Camping - Fishing](#tourism)
   - [Waste Management](#bizwaste)
   - [Web Development](#bizweb) (Non-WordPress)
 - [Apps, Softwares & Tools](#apps)
@@ -29,6 +31,12 @@
 <a name="bizhosting"></a>
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
+<a name="therapy"></a>
+#### Massage Therapay
+- **[Cradle Mountain Massage](https://cradlemountainmassage.com.au/)
+<a name="tourism"></a>
+#### Tourism - Camping - Fishing
+- **[Cradle Mountain Fishery and Camping](https://cradlemountainfisheryandcamping.com.au/)
 <a name="bizwaste"></a>
 #### Waste Management
 - **[Budget Skips Express](https://budgetskipsexpress.com.au/)**
@@ -85,6 +93,10 @@ If you want to add a project to this list, please make sure that:
 
 ## Thanks
 - To the little green men whom populated this world, making this possible
+
+## Disclosure
+
+Some of the Businesses listed are client's of Diemen Design, if only to help provide more linking to their websites, though I believe some people will also find them interesting or handy.
 
 ## License
 
