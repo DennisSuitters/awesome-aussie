@@ -6,7 +6,7 @@
   - [Collectibles - Figurines - Anime](#bizcollectibles)
   - [Computer Sales/Repairs](#bizsales)
   - [Hosting and Domain Registration](#bizhosting) (100% Australian with Australian only Services)
-  - [Massage Therapay](#therapy)
+  - [Massage Therapy](#therapy)
   - [Tourism - Camping - Fishing](#tourism)
   - [Waste Management](#bizwaste)
   - [Web Development](#bizweb) (Non-WordPress)
@@ -32,7 +32,7 @@
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
 <a name="therapy"></a>
-#### Massage Therapay
+#### Massage Therapy
 - **[Cradle Mountain Massage](https://cradlemountainmassage.com.au/)
 <a name="tourism"></a>
 #### Tourism - Camping - Fishing
