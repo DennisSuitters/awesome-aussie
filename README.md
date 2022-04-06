@@ -33,22 +33,22 @@
 - **[Raycraft Computer Consultants](https://raycraft.com.au/)**
 <a name="craft"></a>
 #### Craft - Knitting - Toys - Clothing
-- **[Bizzyknits](https://bizzyknits.biz/)
+- **[Bizzyknits](https://bizzyknits.biz/)**
 <a name="earthmoving"></a>
 #### Earthmoving Services
-- **[AAAEarthworx](https://aaaearthworx.com.au/)
+- **[AAAEarthworx](https://aaaearthworx.com.au/)**
 <a name="entertainment"></a>
 #### Entertainment
-- **[EntertainMe - PatchworK](https://entertainme.net.au/)
+- **[EntertainMe - PatchworK](https://entertainme.net.au/)**
 <a name="bizhosting"></a>
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
 <a name="therapy"></a>
 #### Massage Therapy
-- **[Cradle Mountain Massage](https://cradlemountainmassage.com.au/)
+- **[Cradle Mountain Massage](https://cradlemountainmassage.com.au/)**
 <a name="tourism"></a>
 #### Tourism - Camping - Fishing
-- **[Cradle Mountain Fishery and Camping](https://cradlemountainfisheryandcamping.com.au/)
+- **[Cradle Mountain Fishery and Camping](https://cradlemountainfisheryandcamping.com.au/)**
 <a name="bizwaste"></a>
 #### Waste Management
 - **[Budget Skips Express](https://budgetskipsexpress.com.au/)**
