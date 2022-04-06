@@ -5,6 +5,9 @@
 - [Businesses](#biz)
   - [Collectibles - Figurines - Anime](#bizcollectibles)
   - [Computer Sales/Repairs](#bizsales)
+  - [Craft - Knitting - Toys - Clothing](#craft)
+  - [Earthmoving Services](#earthmoving)
+  - [Entertainment](#entertainment)
   - [Hosting and Domain Registration](#bizhosting) (100% Australian with Australian only Services)
   - [Massage Therapy](#therapy)
   - [Tourism - Camping - Fishing](#tourism)
@@ -26,8 +29,17 @@
 - **[Lone Wolf Anime](https://lonewolfanime.com.au/)**
 <a name="bizsale"></a>
 #### Computer Sales/Repairs
- - **[Hays Computer World](https://hayscomputerworld.com.au/)**
- - **[Raycraft Computer Consultants](https://raycraft.com.au/)**
+- **[Hays Computer World](https://hayscomputerworld.com.au/)**
+- **[Raycraft Computer Consultants](https://raycraft.com.au/)**
+<a name="craft"></a>
+#### Craft - Knitting - Toys - Clothing
+- **[Bizzyknits](https://bizzyknits.biz/)
+<a name="earthmoving"></a>
+#### Earthmoving Services
+- **[AAAEarthworx](https://aaaearthworx.com.au/)
+<a name="entertainment"></a>
+#### Entertainment
+- **[EntertainMe - PatchworK](https://entertainme.net.au/)
 <a name="bizhosting"></a>
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
