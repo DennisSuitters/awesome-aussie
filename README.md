@@ -29,7 +29,7 @@
 - **[Lone Wolf Anime](https://lonewolfanime.com.au/)**
 <a name="bizsale"></a>
 #### Computer Sales/Repairs
-- **[Hays Computer World](https://hayscomputerworld.com.au/)**
+- **[Hays Technologies](https://haystechnologies.com.au/)**
 - **[Raycraft Computer Consultants](https://raycraft.com.au/)**
 <a name="craft"></a>
 #### Craft - Knitting - Toys - Clothing
