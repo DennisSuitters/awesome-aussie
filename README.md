@@ -8,6 +8,7 @@
   - [Craft - Knitting - Toys - Clothing](#craft)
   - [Earthmoving Services](#earthmoving)
   - [Entertainment](#entertainment)
+  - [Finance/Tax Tools](#bizfinance)
   - [Hosting and Domain Registration](#bizhosting) (100% Australian with Australian only Services)
   - [Massage Therapy](#therapy)
   - [Tourism - Camping - Fishing](#tourism)
@@ -40,6 +41,10 @@
 <a name="entertainment"></a>
 #### Entertainment
 - **[EntertainMe - PatchworK](https://entertainme.net.au/)**
+<a name="bizfinance"></a>
+#### Finance/Tax Tools
+- **[ReceiptClaimer](https://receiptclaimer.com.au/)**
+  AI-powered receipt and tax deduction tracker for Australian landlords, contractors, and small businesses.
 <a name="bizhosting"></a>
 #### Hosting and Domain Registration
 - **[VentraIP](https://ventraip.com.au/)**
